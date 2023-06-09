@@ -95,4 +95,13 @@ What are the names of the features or capabilities you will show in your pitch?
 Identify the three categories you have for your product, then write or place sticky notes above each category to oragnize features into groups.
 
 
-## 
+## The Product Lifecycle
+Identify what activities you will need to do for your project in each phase of the product lifecycle. Consider who you will need to work with, what tools or resources you will need, and what deliverables need to be created at each step.
+
+1. Research
+2. Plan
+3. Build
+4. Release
+5. Refine || Retire
+
+
