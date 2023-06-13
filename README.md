@@ -128,5 +128,19 @@ Try not to unintentionally build products for ourselves only.
 6. Create a marketing plan
 
 ## Release your product
+Phased releases are common for web-based products or applications. 
+Phased releases give you a way to test and evaluate audience response.
+
+### Types of Releases
+
+1. Soft launch
+--Finished product is released without any announcement, campaigning or advertisement.
+
+2. Full launch
+--Release a finished product along with marketing.
+
+3. Modified launch
+--Early promotions, testing, features before a full release.
+
 
 
