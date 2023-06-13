@@ -134,13 +134,13 @@ Phased releases give you a way to test and evaluate audience response.
 ### Types of Releases
 
 1. Soft launch
---Finished product is released without any announcement, campaigning or advertisement.
+-- Finished product is released without any announcement, campaigning or advertisement.
 
 2. Full launch
---Release a finished product along with marketing.
+-- Release a finished product along with marketing.
 
 3. Modified launch
---Early promotions, testing, features before a full release.
+-- Early promotions, testing, features before a full release.
 
 
 
