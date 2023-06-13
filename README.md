@@ -105,3 +105,17 @@ Identify what activities you will need to do for your project in each phase of t
 5. Refine || Retire
 
 
+## Release
+### Define your go-to market
+Try not to unintentionally build products for ourselves only.
+
+### Persona
+Are fictional characters used to base the design and direction of a product as the primary targeted user.
+
+1. Name your persona
+2. Give your persona background
+3. Persona demographic data (Such as: Gender, Income, Location, etc)
+4. Include quotes from your persona
+5. Classify personas to Primary users & Secondary users
+
+
