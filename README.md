@@ -107,15 +107,26 @@ Identify what activities you will need to do for your project in each phase of t
 
 ## Release
 ### Define your go-to market
+Persona: Are fictional characters used to base the design and direction of a product as the primary targeted user.
 Try not to unintentionally build products for ourselves only.
 
-### Persona
-Are fictional characters used to base the design and direction of a product as the primary targeted user.
 
 1. Name your persona
 2. Give your persona background
 3. Persona demographic data (Such as: Gender, Income, Location, etc)
 4. Include quotes from your persona
 5. Classify personas to Primary users & Secondary users
+
+
+## Position your product to personas
+
+1. Discover needs
+2. Set priorities
+3. Define user stories
+4. Establish personas
+5. Develope communications
+6. Create a marketing plan
+
+## Release your product
 
 
