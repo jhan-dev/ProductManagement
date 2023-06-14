@@ -145,19 +145,19 @@ Phased releases give you a way to test and evaluate audience response.
 
 ## Talk To Your Users & Non-Users
 ### Talking to Primary Users
-<br> &mdash; Does it solve a problem?
+&mdash; Does it solve a problem?
 <br> &mdash; Do they find value?
 <br> &mdash; Will they continue use?
 
 ### Talking to Non-Users
-<br> &mdash; Do they know the product exists?
+&mdash; Do they know the product exists?
 <br> &mdash; How did they find out about it?
 <br> &mdash; Why don't they use it?
 
 ![Alt text](images/user-types.jpg)
 
 ### Churn Themes
-<br> &mdash; Poor positioning
+&mdash; Poor positioning
 <br> &mdash; Price objections
 <br> &mdash; Unaware of product
 
