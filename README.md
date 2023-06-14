@@ -118,7 +118,7 @@ Try not to unintentionally build products for ourselves only.
 5. Classify personas to Primary users & Secondary users
 
 
-## Position your product to personas
+## Position Your Product To Personas
 
 1. Discover needs
 2. Set priorities
@@ -127,7 +127,7 @@ Try not to unintentionally build products for ourselves only.
 5. Develope communications
 6. Create a marketing plan
 
-## Release your product
+## Release Your Product
 Phased releases are common for web-based products or applications. 
 Phased releases give you a way to test and evaluate audience response.
 
@@ -141,6 +141,33 @@ Phased releases give you a way to test and evaluate audience response.
 
 3. Modified launch <br>
 &mdash; Early promotions, testing, features before a full release.
+
+
+## Talk To Your Users & Non-Users
+### Talking to Primary Users
+&mdash; Does it solve a problem?
+&mdash; Do they find value?
+&mdash; Will they continue use?
+
+### Talking to Non-Users
+&mdash; Do they know the product exists?
+&mdash; How did they find out about it?
+&mdash; Why don't they use it?
+
+![Alt text](images/user-types.jpg)
+
+### Churn Themes
+&mdash; Poor positioning
+&mdash; Price objections
+&mdash; Unaware of product
+
+### Not Personas Current Users 
+Adding features to support an unknown persona could increase your market.
+
+### Not Personas Non-Users
+Non-Users are predicted as expected as they don't find usefulness of your product.
+
+
 
 
 
