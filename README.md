@@ -145,21 +145,21 @@ Phased releases give you a way to test and evaluate audience response.
 
 ## Talk To Your Users & Non-Users
 ### Talking to Primary Users
-&mdash; Does it solve a problem?
-&mdash; Do they find value?
-&mdash; Will they continue use?
+<br> &mdash; Does it solve a problem?
+<br> &mdash; Do they find value?
+<br> &mdash; Will they continue use?
 
 ### Talking to Non-Users
-&mdash; Do they know the product exists?
-&mdash; How did they find out about it?
-&mdash; Why don't they use it?
+<br> &mdash; Do they know the product exists?
+<br> &mdash; How did they find out about it?
+<br> &mdash; Why don't they use it?
 
 ![Alt text](images/user-types.jpg)
 
 ### Churn Themes
-&mdash; Poor positioning
-&mdash; Price objections
-&mdash; Unaware of product
+<br> &mdash; Poor positioning
+<br> &mdash; Price objections
+<br> &mdash; Unaware of product
 
 ### Not Personas Current Users 
 Adding features to support an unknown persona could increase your market.
