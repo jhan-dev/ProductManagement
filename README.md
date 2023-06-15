@@ -168,6 +168,19 @@ Adding features to support an unknown persona could increase your market.
 Non-Users are predicted as expected as they don't find usefulness of your product.
 
 
+## Evaluate Product Usage Analytics
+Some of the most common trends 
+
+1. What features or sections of your product are used and aren't used at all.
+2. User session time of when the app is opened and actively used.
+3. It is typical of user sessions to drop after launch steadily, but if drastic or quick time to ask Q&A.
+
+&mdash; Are users not interested anymore?
+<br> &mdash; Are they using a competitor's product?
+<br> &mdash; Does the need no longer exist?
+
+
+
 
 
 
