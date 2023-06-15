@@ -180,6 +180,26 @@ Some of the most common trends
 <br> &mdash; Does the need no longer exist?
 
 
+## Use Net Promoter Scores
+Net promoter question: Would you recommend this product or service to someone else?
+Answer will be evaluated between a scale of 1 - 10.
+Results of the question is an index of a -100 to +100.
+
+### Net Promoter Scoring
+#### Promoters (9-10):
+Enthusiastic Fans, will most likely promote to others.
+
+#### Passives (7-8):
+Satisfied users, most likely won't promote to others. Potential targets for competitors.
+
+#### Detractors (6 and Lower):
+Actively discouraging others from using your product or service. Can be harmful to your product's reputation.
+
+### NPS (Net Promoter Scoring):
+Is calculated subtracting Defactors from your Promoters. Passives are ignored.
+<br> &mdash; NPS 30 = Good
+<br> &mdash; NPS 50 = Great
+<br> &mdash; NPS 70 = Excellent
 
 
 
