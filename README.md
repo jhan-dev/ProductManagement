@@ -202,5 +202,21 @@ Is calculated by subtracting Defectors from your Promoters. Passives are ignored
 <br> &mdash; NPS 70 = Excellent
 
 
-## 
+## Planning Product Updates
+### Debt
+1. Work required to keep the product up to date.
+2. In many products, especially technology ones, with each release you incur work that needs to be done to keep the product modern and updated.
+3. These features might not be user-facing and are often based on external factors.
+Ex:
+&mdash; For instance, your product might be built with an older version of components that are no longer available.
+<br> &mdash; You need to refactor or adjust your product to work with newer components.
+<br> &mdash; Your product could be built with a programming framework that has been upgraded, and now need to update the code base to work with the update.
+
+These work items are debt that need to be addressed in order to keep your product ready for active development and new features.
+
+Over time, the amount of technical debt builds and builds. At some point, you will probably need to address some of these issues.
+
+Sometimes the technical debt is so high, that it's actually more resource effective to start entirely from scratch and build something new. This means that you will need to retire the current product and remove it from the market.
+
+
 
