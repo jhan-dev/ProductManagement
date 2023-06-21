@@ -231,7 +231,10 @@ At some point, your product will be retired. It might be years down the road, bu
 
 Whatever the reason, this is a situation where you need to put your customers first. While you aren't able to provide them with ongoing products, this is an important period, to be honest, transparent, and proactive.
 
-While they might not be users of this product anymore, they can still be a force and an advocate for your other existing products, potentially future products, or for your company as a whole.
+While they might not be users of this product anymore, they can still be a force and an advocate for your other existing products, potential future products, or your company as a whole.
 
-
+### Potential responses from cancellation of a product:
+1. Respond to concerns and migrate to another product.
+2. Your customers might be angry or upset at the cancellation of a product.
+3. Make the time to provide general guidance on how to migrate to another product, even if it is a competitor.
 
