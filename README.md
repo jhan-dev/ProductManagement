@@ -219,4 +219,19 @@ Over time, the amount of technical debt builds and builds. At some point, you wi
 Sometimes the technical debt is so high, that it's actually more resource effective to start entirely from scratch and build something new. This means that you will need to retire the current product and remove it from the market.
 
 
+## Retire
+### When it's time to retire a product
+At some point, your product will be retired. It might be years down the road, but all products will be replaced or removed from the market at some point.
+
+### Here are some things to consider as you prepare to retire or end of life your product:
+1. New product replaces old.
+2. Product becomes obsolete.
+3. Too much technical debt.
+4. Market conditions.
+
+Whatever the reason, this is a situation where you need to put your customers first. While you aren't able to provide them with ongoing products, this is an important period, to be honest, transparent, and proactive.
+
+While they might not be users of this product anymore, they can still be a force and an advocate for your other existing products, potentially future products, or for your company as a whole.
+
+
 
