@@ -237,4 +237,8 @@ While they might not be users of this product anymore, they can still be a force
 1. Respond to concerns and migrate to another product.
 2. Your customers might be angry or upset at the cancellation of a product.
 3. Make the time to provide general guidance on how to migrate to another product, even if it is a competitor.
+4. Leave in the market without support.
+5. Release the product as an open source.
+
+Whatever the reasons and resolutions, the retirement of a product is a key part of any product lifecycle. As a Product Manager, it is important to put your customer first to ensure that they can still be advocates for you in the future.
 
